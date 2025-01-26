@@ -16,6 +16,7 @@ Insights and recommendations are provided on the following key areas:
 **Loyalty Program Success**: An assessment of the loyalty program on customer purchasing behavior
 
 ## **Data Structure**
+![Untitled (1)](https://github.com/user-attachments/assets/805fea83-5291-4eeb-8524-384305be85df)
 
 ## **Executive Summary**
 Among all categories, WATER is the most sold one with over 600k in year 2021 and between 1.5-2M in year 2022-2023. Packaged Water is the most sold subcategory, with the Spring Glass water being the most sold product. 
