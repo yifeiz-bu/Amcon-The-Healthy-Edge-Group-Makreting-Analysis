@@ -5,10 +5,10 @@ The project scope included all the transactional invoice entires (3GB+) across 2
 
 Data Privacy Disclaimer: For security purpose, all the data from this project is modified with bias and should be remained at the higest privacy level. It is worth noticing that any vioaltion of data leakage should be taken at suer's own risk and shall be subject to legal liabilities.
 
-## **Company Background**
+## **Project Background**
 
 The Healthy Edge Retail Group is a Wholesale distributor of consumer products, operating three natural food and supplement retail chains that represent 3% of the overall business.
-The company has significant amonts of data on its product transactions, transaction date, order quantity and value, product price, product category, store name, and loyalty status that remain to be uncovered for critical insights to improve The Healthy Edge's retail excellence. This analysis will only concentrate the scope on the Chamberlins Natural Food store. 
+The company has significant amounts of data on its product transactions, transaction date, order quantity and value, product price, product category, store name, and loyalty status that remain to be uncovered for critical insights to improve The Healthy Edge's retail excellence. This EDA analysis will concentrate the scope primarily on the Chamberlins Natural Food store banner. 
 
 Insights and recommendations are provided on the following key areas:
 **Sales Trends Analysis**: Evaluaiton of historical sales patterns across the three stores, focusing on Revenue, Order volume, and Average ROder Value (AOV)
@@ -18,12 +18,14 @@ Insights and recommendations are provided on the following key areas:
 ## **Data Structure**
 ![Untitled (1)](https://github.com/user-attachments/assets/805fea83-5291-4eeb-8524-384305be85df)
 
+The entity TRANSACTION represents a unqiue item purchase from a customer in store. It emodies as a single line of transaction record from a single receipt. From ERD perspective, a Transaction table use both the Item ID and Customer ID as a combined primary key, with another assimilated representation as the column "Receipt Alias".
+
 ## **Executive Summary**
-Among all categories, WATER is the most sold one with over 600k in year 2021 and between 1.5-2M in year 2022-2023. Packaged Water is the most sold subcategory, with the Spring Glass water being the most sold product. 
+Among all categories, WATER is the most sold one with over  600k in year 2021 and between 1.5-2M in year 2022-2023. Packaged Water is the most sold subcategory, with the Spring Glass water being the most sold product. 
 
 Year 2021 has the sales peaked in July, and the average sale is consistently lower than that of 2022 and 2023. Sale grows tremendously in year 2023 indicating strong financial recovery from the customers. 
 
 In observance of strong seasonalities patterns, March and August tend to have the most sales growth of the year. 
 
-Loyalty tiers have different buying preference when it comes to the Water product. LOyalty member prefers the Spring GLass Water whereas the guest prefer the HEalthy Edge Purified Water.
+Loyalty tiers have different buying preference when it comes to the Water product. Loyalty member prefers the Spring GLass Water whereas the guest prefer the HEalthy Edge Purified Water.
 In terms of revenue generated, loyalty members always have the order volume higher than the guest, as well as the average order value alsohigher than the guest.
