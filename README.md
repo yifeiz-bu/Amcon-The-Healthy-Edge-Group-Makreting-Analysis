@@ -21,6 +21,7 @@ Insights and recommendations are provided on the following key areas:
 The entity TRANSACTION represents a unqiue item purchase from a customer in store. It emodies as a single line of transaction record from a single receipt. From ERD perspective, a Transaction table use both the Item ID and Customer ID as a combined primary key, with another assimilated representation as the column "Receipt Alias".
 
 ## **Executive Summary**
+
 Among all categories, WATER is the most sold one with over  600k in year 2021 and between 1.5-2M in year 2022-2023. Packaged Water is the most sold subcategory, with the Spring Glass water being the most sold product. 
 
 Year 2021 has the sales peaked in July, and the average sale is consistently lower than that of 2022 and 2023. Sale grows tremendously in year 2023 indicating strong financial recovery from the customers. 
@@ -31,34 +32,55 @@ Loyalty tiers have different buying preference when it comes to the Water produc
 In terms of revenue generated, loyalty members always have the order volume higher than the guest, as well as the average order value alsohigher than the guest.
 
 **Overall Findings**
+
 Top Categories: From 2021 to 2023, the Water category contributed the largest share of sales, followed by Vitamins & Minerals and Vegetables as the second and third most popular categories.
+
 Seasonality: Sales exhibited strong seasonal trends, with March and August consistently being the highest-performing months across all years.
+
 Customer Behavior: Loyalty customers purchased larger quantities and chose higher-priced products compared to guest customers.
+
 **Sales Month-to-Month by Water Category**
+
 Within the Packaged Water subcategory:
 Spring Water was the top-selling item, followed by Alkaline Ionized Water as the second most popular product.
 Sales of Spring Glass Water increased steadily during the second half of each year, while Alkaline Ionized Water sales remained relatively constant year-round.
+
 **Total Sales Month-to-Month**
+
 Seasonality Insights: Sales showed clear seasonal spikes in March and August every year, driven by heightened consumer demand.
+
 Annual Comparison: Sales revenue in 2023 outperformed the previous two years, reflecting strong growth momentum.
+
 **Order Volume Month-to-Month**
+
 Yearly Trends: 2023 recorded the highest overall order volume.
+
 Monthly Peak: March consistently had the highest order volume across all three years.
+
 **Average Order Value (AOV) Month-to-Month**
+
 Peak Year: 2022 had the highest AOV, attributed to the economic impact of the COVID-19 pandemic, which shifted purchasing behaviors toward higher-priced products.
+
 **Sales Month-to-Month by Loyalty Tiers**
+
 Loyalty Customers:
 Consistently purchased more than guest customers.
 Exhibited similar purchasing trends over time.
+
 Guest Customers:
 Showed lower overall purchase quantities compared to loyalty members.
+
 **Average Order Value by Loyalty Tiers**
 Higher Spend per Order: Loyalty members consistently spent more on average compared to guest customers, favoring premium-priced products.
+
 **Packaged Water Sales by Season and Loyalty Tiers**
+
 Year 2021 and 2023:
 The Healthy Edge Purified Water dominated sales among guest customers.
+
 Other Periods:
 Spring Glass Water led sales for both loyalty and guest customers during non-peak periods.
+
 **Root Cause Analysis: Discount Scale on Product Demand**
 Taking the popular Spring Glass Water as an example:
 Discount Impact: Larger discounts directly correlated with higher product demand, emphasizing price sensitivity among consumers.
