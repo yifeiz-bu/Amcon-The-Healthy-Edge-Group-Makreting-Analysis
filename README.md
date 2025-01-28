@@ -85,7 +85,7 @@ Spring Glass Water led sales for both loyalty and guest customers during non-pea
 Taking the popular Spring Glass Water as an example:
 Discount Impact: Larger discounts directly correlated with higher product demand, emphasizing price sensitivity among consumers.
 
-**Recommendations**
+## **Recommendations**
 
 Optimize Product Promotion Based on Seasonality:
 
