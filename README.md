@@ -44,6 +44,9 @@ Customer Behavior: Loyalty customers purchased larger quantities and chose highe
 Within the Packaged Water subcategory:
 Spring Water was the top-selling item, followed by Alkaline Ionized Water as the second most popular product.
 Sales of Spring Glass Water increased steadily during the second half of each year, while Alkaline Ionized Water sales remained relatively constant year-round.
+![newplot](https://github.com/user-attachments/assets/6f11a0e3-4b21-4f52-9052-fd6e6cd8cc64)
+![newplot (1)](https://github.com/user-attachments/assets/f856822a-c2ca-4cf8-8e5c-4bf3778b1237)
+![newplot (2)](https://github.com/user-attachments/assets/ec061c6a-9c35-4705-8733-6c31f3d5d950)
 
 **Total Sales Month-to-Month**
 
