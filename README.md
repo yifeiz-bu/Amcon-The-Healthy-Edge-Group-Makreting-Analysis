@@ -43,24 +43,29 @@ Customer Behavior: Loyalty customers purchased larger quantities and chose highe
 
 Within the Packaged Water subcategory:
 Spring Water was the top-selling item, followed by Alkaline Ionized Water as the second most popular product.
-Sales of Spring Glass Water increased steadily during the second half of each year, while Alkaline Ionized Water sales remained relatively constant year-round.
 ![newplot](https://github.com/user-attachments/assets/6f11a0e3-4b21-4f52-9052-fd6e6cd8cc64)
 ![newplot (1)](https://github.com/user-attachments/assets/f856822a-c2ca-4cf8-8e5c-4bf3778b1237)
 ![newplot (2)](https://github.com/user-attachments/assets/ec061c6a-9c35-4705-8733-6c31f3d5d950)
+Sales of Spring Glass Water increased steadily during the second half of each year, while Alkaline Ionized Water sales remained relatively constant year-round.
+![newplot (3)](https://github.com/user-attachments/assets/eb74892f-41d0-493f-9a70-608d3bcdd8ed)
+![newplot (4)](https://github.com/user-attachments/assets/563c1467-2a51-4788-8060-bcebda356b02)
 
 **Total Sales Month-to-Month**
+![newplot (5)](https://github.com/user-attachments/assets/b6a3ad4f-54ec-4ed5-a360-522a592644e8)
 
 Seasonality Insights: Sales showed clear seasonal spikes in March and August every year, driven by heightened consumer demand.
 
 Annual Comparison: Sales revenue in 2023 outperformed the previous two years, reflecting strong growth momentum.
 
 **Order Volume Month-to-Month**
+![newplot (6)](https://github.com/user-attachments/assets/593469e8-601f-4540-996d-28a4eafc3299)
 
 Yearly Trends: 2023 recorded the highest overall order volume.
 
 Monthly Peak: March consistently had the highest order volume across all three years.
 
 **Average Order Value (AOV) Month-to-Month**
+![newplot (7)](https://github.com/user-attachments/assets/94070036-3af5-4925-89b2-f2483712d9a6)
 
 Peak Year: 2022 had the highest AOV, attributed to the economic impact of the COVID-19 pandemic, which shifted purchasing behaviors toward higher-priced products.
 
@@ -69,17 +74,22 @@ Peak Year: 2022 had the highest AOV, attributed to the economic impact of the CO
 Loyalty Customers:
 Consistently purchased more than guest customers.
 Exhibited similar purchasing trends over time.
+![newplot (8)](https://github.com/user-attachments/assets/575a7d4a-0c69-4fd4-9723-1da77d3820c6)
 
 Guest Customers:
 Showed lower overall purchase quantities compared to loyalty members.
+![newplot (9)](https://github.com/user-attachments/assets/da986cd7-d45c-4c9b-a595-bc9cb6f8c93d)
 
 **Average Order Value by Loyalty Tiers**
 Higher Spend per Order: Loyalty members consistently spent more on average compared to guest customers, favoring premium-priced products.
+![newplot (10)](https://github.com/user-attachments/assets/d58adff7-e008-4c85-8457-ea880b171632)
 
 **Packaged Water Sales by Season and Loyalty Tiers**
 
 Year 2021 and 2023:
 The Healthy Edge Purified Water dominated sales among guest customers.
+![newplot (11)](https://github.com/user-attachments/assets/301c2266-5b55-4906-bca3-76146afac52a)
+![newplot (12)](https://github.com/user-attachments/assets/e53edb06-6162-44d3-9823-40d9ec4d8a41)
 
 Other Periods:
 Spring Glass Water led sales for both loyalty and guest customers during non-peak periods.
@@ -87,6 +97,14 @@ Spring Glass Water led sales for both loyalty and guest customers during non-pea
 **Root Cause Analysis: Discount Scale on Product Demand**
 Taking the popular Spring Glass Water as an example:
 Discount Impact: Larger discounts directly correlated with higher product demand, emphasizing price sensitivity among consumers.
+ Year 2022:
+ 
+![newplot (13)](https://github.com/user-attachments/assets/8342ed9e-ba97-4a2d-b7f9-d01b6d9f3938)
+![newplot (14)](https://github.com/user-attachments/assets/5f535314-f243-4686-85ce-62f76da4eb0b)
+
+Year 2023:
+![newplot (15)](https://github.com/user-attachments/assets/0f685f73-1116-4399-9389-c5fc85d0a5ac)
+![newplot (16)](https://github.com/user-attachments/assets/888f133b-c15b-4ae8-8d6c-474ef518c8a8)
 
 ## **Recommendations**
 
