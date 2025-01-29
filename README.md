@@ -18,7 +18,7 @@ Insights and recommendations are provided on the following key areas:
 ## **Data Structure**
 ![Untitled (1)](https://github.com/user-attachments/assets/805fea83-5291-4eeb-8524-384305be85df)
 
-The entity TRANSACTION represents a unqiue item purchase from a customer in store. It emodies as a single line of transaction record from a single receipt. From ERD perspective, a Transaction table use both the Item ID and Customer ID as a combined primary key, with another assimilated representation as the column "Receipt Alias".
+The TRANSACTION entity represents a unique item purchase made by a customer in-store. Each transaction is recorded as a single line item within a receipt. In the ERD, the Transaction table uses a composite primary key consisting of both Item ID and Customer ID. Additionally, it includes a 'Receipt Alias' column as an alternative representation to associate purchased item with their respective receipts.
 
 ## **Executive Summary**
 
